@@ -1,4 +1,4 @@
 # TOP_Git
-My first Github repo! stoked!!!
-Hello Odin!
+Repo for the Odin Project
+Includes all the Project Files.
 
